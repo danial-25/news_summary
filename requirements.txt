@@ -1,0 +1,6 @@
+newsapi
+transformers
+torch
+numpy
+pandas
+pyTelegramBotAPI
